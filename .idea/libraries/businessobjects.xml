@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="businessobjects">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../MAXIMO/businessobjects" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../MAXIMO/businessobjects" />
+    </SOURCES>
+  </library>
+</component>
